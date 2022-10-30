@@ -1,4 +1,4 @@
-## AirBnB_clone
+## AirBnB Clone
 
 - Compliled on Ubuntu 20.04 LTS
 - Betty code, doc style and pycode compliant
